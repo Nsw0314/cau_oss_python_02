@@ -3,3 +3,6 @@
 
 ## 2024-04-04
 Homework#2, simple calculator 구현
+
+## 2024-05-19
+Homework#4, figure 모듈 구현
